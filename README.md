@@ -1,8 +1,5 @@
  ## Olá! Eu sou Leonardo Galvez Rodrigues
  
- - 🔭 Estou buscando a primeira oportunidade na área de tecnologia. 
- - 🌱 Atualmente cursando a capacitação profissional de desenvolvimento fullstack pela Newtab Academy
- 
  <div>
   <a href="https://www.linkedin.com/in/mwsleonardo/">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mwsleonardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
